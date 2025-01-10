@@ -4,7 +4,7 @@
 
 ## 目录结构
 
-### 数据结构 `/DataStructure`
+### 数据结构 `DataStructure`
 - 线性基 
   - 基础版本 `Basis.cpp`
   - 完整版本 `BasisAll.cpp`
@@ -20,7 +20,7 @@
 - LCT (Link Cut Tree) `LCT.cpp`
 - RMQ (区间最值查询) `RMQ.cpp`
 
-### 图论算法 `/Graph`
+### 图论算法 `Graph`
 - 基础图论 `Graph.cpp`
 - 网络流
   - 整数流 `FlowInt.cpp`
@@ -35,7 +35,7 @@
 - 2-SAT问题 `TwoSat.cpp`
 - 最大匹配 `MaxAssignment.cpp`
 
-### 字符串算法 `/String`
+### 字符串算法 `String`
 - AC自动机
   - 基础版本 `AC.cpp`
   - 增强版本 `AhoCorasick.cpp`
@@ -45,7 +45,7 @@
 - Manacher算法 `Manacher.cpp`
 - Z函数 `ZFunction.cpp`
 
-### 数学 `/Math`
+### 数学 `Math`
 - 基础数学 `Math.cpp`
 - 数论
   - 素数筛法 `Sieve.cpp`
@@ -70,11 +70,11 @@
     - 基础版本 `StaticConvexHull.cpp`
     - 复数版本 `StaticConvexHullComplex.cpp`
 
-### 其他算法 `/Others`
+### 其他算法 `Others`
 - 128位整数类型 `Int128.cpp`
 - 有序集合工具 `order_of_key.cpp`
 
-### 压力测试 `/StressTest`
+### 压力测试 `StressTest`
 - 对拍程序 `stress.cpp`
 - 标准程序 `stress__Good.cpp`
 - 数据生成器 `stress__Generator.cpp`
